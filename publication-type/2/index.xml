@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jen-Wei (William) Wang</title>
+    <link>https://WilliamWang303.github.io/publication-type/2/</link>
+      <atom:link href="https://WilliamWang303.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://WilliamWang303.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://WilliamWang303.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Robot grasping in dense clutter via view-based experience transfer</title>
+      <link>https://WilliamWang303.github.io/publication/dense-grasp/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/dense-grasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a dung beetle robot and investigation of its dung-rolling behavior</title>
+      <link>https://WilliamWang303.github.io/publication/dung-beetle-invention/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/dung-beetle-invention/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

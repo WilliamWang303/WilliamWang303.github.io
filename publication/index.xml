@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jen-Wei (William) Wang</title>
+    <link>https://WilliamWang303.github.io/publication/</link>
+      <atom:link href="https://WilliamWang303.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://WilliamWang303.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://WilliamWang303.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Towards Automatic Adaption for Object Detection by Interactive Perception</title>
+      <link>https://WilliamWang303.github.io/publication/odip/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/odip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot grasping in dense clutter via view-based experience transfer</title>
+      <link>https://WilliamWang303.github.io/publication/dense-grasp/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/dense-grasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCID-Ref: A 3D Robotic Dataset with Embodied Language for Clutter Scene Grounding</title>
+      <link>https://WilliamWang303.github.io/publication/ocid-ref/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/ocid-ref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDN: A Coarse-To-Fine (C2F) Representation for End-To-End 6-DoF Grasp Detection</title>
+      <link>https://WilliamWang303.github.io/publication/c2f/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/c2f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a dung beetle robot and investigation of its dung-rolling behavior</title>
+      <link>https://WilliamWang303.github.io/publication/dung-beetle-invention/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/dung-beetle-invention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of a dung beetle robot</title>
+      <link>https://WilliamWang303.github.io/publication/dung-beetle-aris/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/dung-beetle-aris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://WilliamWang303.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://WilliamWang303.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
